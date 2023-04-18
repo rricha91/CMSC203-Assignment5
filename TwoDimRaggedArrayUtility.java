@@ -2,6 +2,18 @@ import java.io.*;
 import java.lang.runtime.SwitchBootstraps;
 import java.util.Map;
 
+/*
+ * Class: CMSC203 
+ * Instructor: Grigoriy Grinberg
+ * Description: A class to read and manage 2D arrays of doubles pulled from text files.
+ * Due: 4/17/2023
+ * Platform/compiler: Eclipse IDE
+ * I pledge that I have completed the programming 
+ * assignment independently. I have not copied the code 
+ * from a student or any source. I have not given my code 
+ * to any student.
+   Print your Name here: Ryan RIchards
+ */
 class TwoDimRaggedArrayUtility {
 	private static Map<Character, Character> mp = Singleton.getCharMap();
 	
